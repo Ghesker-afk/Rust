@@ -1,2 +1,2 @@
 # Rust
-A reposity for my projects made with the programming language Rust. 
+A repository for my projects made with the programming language Rust. 
